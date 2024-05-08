@@ -1,3 +1,6 @@
+"""4. Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and 
+        Backtracking for n-queens problem or a graph coloring problem."""
+
 def issafe(arr,x,y,n):
     for row in range(x):
         if arr[row][y] ==1:

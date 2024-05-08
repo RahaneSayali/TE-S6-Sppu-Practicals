@@ -1,3 +1,5 @@
+# 3. Implement Greedy search algorithm for any of the following application: Job Scheduling
+
 # Jobs, Profit, Slot
 profit = [15,27,10,100, 150]
 jobs = ["j1", "j2", "j3", "j4", "j5"]

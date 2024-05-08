@@ -1,3 +1,7 @@
+"""1. Implement depth first search algorithm and Breadth First Search algorithm, Use an undirected 
+graph and develop a recursive algorithm for searching all the vertices of a graph or tree data 
+structure."""
+
 def dfs(visited, graph, node):
     if node not in visited:
         print(node, end=" ")
